@@ -9,7 +9,6 @@ L'ordre d'execució dels codis és el següent:
 6 -> 23_3_stereo_camera_calibration_from_file.py
 7 -> 31_2_track_face_position_stereo.py
 8 -> 40_modbus.py
--
 
 Per poder executar els codis es necessari instal·lar prèviament les següents llibreries:
 * cv2
